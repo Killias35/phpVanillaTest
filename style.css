@@ -1,0 +1,88 @@
+
+input{
+    border: 0px;
+    background-color: transparent;
+    color: black;
+}
+
+img {
+    max-width: 200px;
+}
+
+.container{
+    display: flex; 
+    justify-content: space-evenly;
+}
+
+.container-center
+{
+    display: flex; 
+    justify-content: center;
+}
+
+.container-column{
+    display: flex; 
+    flex-direction: column;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.logo{
+    margin: 25px;
+}
+
+.ville{
+    background-color: #EAEAEA;
+    padding: 7px;
+}
+
+.position-input{
+    gap: 17px;
+}
+
+.section1{
+    background-color: #F6F6F6;
+}
+
+.section1 h1{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46.88px;
+    text-align: center;
+
+}
+
+.section1 p{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 21.09px;
+    text-align: center;
+}
+
+.section1 a{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: center;
+    
+    background: linear-gradient(193.33deg, #9356DC -11.44%, #FF79DA 123.93%);
+    border-radius: 25px;
+    
+    width: 218px;
+height: 50px;
+top: 305px;
+left: 597.5px;
+gap: 0px;
+opacity: 0px;
+
+
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
